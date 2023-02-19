@@ -1,0 +1,23 @@
+{
+  "name": "selenium_javascript_beginners",
+  "version": "1.0.0",
+  "description": "selenium with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurishama/selenium_javascript_beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurishama/selenium_javascript_beginners/issues"
+  },
+  "homepage": "https://github.com/Yurishama/selenium_javascript_beginners#readme",
+  "dependencies": {
+    "chromedriver": "^110.0.0",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
